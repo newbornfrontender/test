@@ -7,14 +7,12 @@
     </tr>
   </thead>
   <tbody>
-    <!-- Команда: clean -->
     <tr>
       <td>
         <code>$ yarn clean</code>
       </td>
       <td>Удаляет ".cache" и "dist" директории</td>
     </tr>
-    <!-- Команда: move -->
     <tr>
       <td>
         <code>$ yarn move</code>
@@ -22,7 +20,6 @@
       <td>Переносит статические ресурсы в "dist" директорию</td>
     </tr>
     <tr>
-      <!-- Подтаблица: TSLint -->
       <td colspan="2">
         <p align="center">
           <b>TSLint</b>
@@ -38,7 +35,6 @@
             </tr>
           </thead>
           <tbody>
-            <!-- Команда: tslint:check -->
             <tr>
               <td>
                 <code>$ yarn tslint:check</code>
@@ -48,7 +44,6 @@
           </tbody>
         </table>
       </td>
-      <!-- Подтаблица: Prettier -->
       <td colspan="2">
         <p align="center">
           <b>Prettier</b>
@@ -64,7 +59,6 @@
             </tr>
           </thead>
           <tbody>
-            <!-- Команда: prettier:list -->
             <tr>
               <td>
                 <code>$ yarn prettier:list</code>
@@ -75,14 +69,12 @@
         </table>
       </td>
     </tr>
-    <!-- Команда: serve -->
     <tr>
       <td>
         <code>$ yarn serve</code>
       </td>
       <td>Запускает сервер разработки с горячей перезагрузкой</td>
     </tr>
-    <!-- Команда: build -->
     <tr>
       <td>
         <code>$ yarn build</code>
