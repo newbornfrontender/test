@@ -34,7 +34,7 @@
               <td>
                 <code>$ yarn prettier:list</code>
               </td>
-              <td>Выводит список файлов, которые можно отформатировать</td>
+              <td>Выводит список файлов, которые можно отформатировать asdasdas dasd asd asdasd</td>
             </tr>
           </tbody>
         </table>
