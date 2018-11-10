@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td colspan="2">
-        <p><b>Prettier</b></p>
+        <p align="center"><b>Prettier</b></p>
         <table>
           <thead>
             <tr>
