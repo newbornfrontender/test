@@ -18,7 +18,7 @@ html
     <th>Описание</th>
   </tr>
   <tr>
-    <td>`$ yarn move`</td>
+    <td><code>$ yarn move<code></td>
     <td>Переносит статические ресурсы в "dist" директорию</td>
   </tr>
 </table>
