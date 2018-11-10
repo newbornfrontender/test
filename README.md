@@ -22,7 +22,7 @@ html
     <td colspan="2">
       <table>
         <tr>
-          <th>Prettier</th>
+          <th colspan="2">Prettier</th>
         </tr>
         <tr>
           <td><code>$ yarn move</code></td>
