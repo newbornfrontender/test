@@ -25,6 +25,9 @@
         <p align="center">
           <b>Prettier</b>
         </p>
+        <blockquote>
+          <p>Prettier - инструмент форматирования кода c поддержкой множества языков, минимумом конфигурации и максимумом навязанных правил</p>
+        </blockquote>
         <table>
           <thead>
             <tr>
