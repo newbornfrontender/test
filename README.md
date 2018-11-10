@@ -40,7 +40,7 @@
           </thead>
           <tbody>
             <!-- Команда: tslint:check -->
-            <tr>
+            <tr colspan="2">
               <td>
                 <code>$ yarn tslint:check</code>
               </td>
