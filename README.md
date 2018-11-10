@@ -22,20 +22,22 @@
     </tr>
     <tr>
       <td colspan="2">
-        <p align="center"><b>Prettier</b></p>
+        <p align="center">
+          <b>Prettier</b>
+        </p>
         <table>
           <thead>
             <tr>
-      <th>Команда</th>
-      <th>Описание</th>
-    </tr>
+              <th>Команда</th>
+              <th>Описание</th>
+            </tr>
           </thead>
           <tbody>
             <tr>
               <td>
                 <code>$ yarn prettier:list</code>
               </td>
-              <td>Выводит список файлов, которые можно отформатировать asdasdas dasd asd asdasd asdasdas dasd asd asdasd asdasdas dasd asd asdasd</td>
+              <td>Выводит список файлов, которые можно отформатировать</td>
             </tr>
           </tbody>
         </table>
