@@ -19,7 +19,7 @@ html
   </tr>
   
   <tr>
-    <td colspan="2">Prettier</td>
+    <td align="center" colspan="2">Prettier</td>
   </tr>
   
   <tr>
