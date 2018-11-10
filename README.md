@@ -22,12 +22,13 @@
     </tr>
     <tr>
       <td colspan="2">
-        <p>Описание</p>
+        <p><bold>Prettier</bold></p>
         <table>
           <thead>
             <tr>
-              <th colspan="2">Prettier</th>
-            </tr>
+      <th>Команда</th>
+      <th>Описание</th>
+    </tr>
           </thead>
           <tbody>
             <tr>
