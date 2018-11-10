@@ -22,7 +22,9 @@ html
   
   <tr>
     <td colspan="2">
-      <p/>Описание<p>
+      <blockquote>
+        <p/>Описание<p>
+      </blockquote>
       <table>
         <tr>
           <th colspan="2">Prettier</th>
@@ -32,7 +34,6 @@ html
           <td>Переносит статические ресурсы в "dist" директорию</td>
         </tr>
       </table>
-      <p/>321<p>
     </td>
   </tr>
   
