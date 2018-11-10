@@ -20,7 +20,7 @@ html
   
   <tr>
     <td colspan="2">
-      <table>
+      <table style="margin-bottom: 0;">
         <tr>
           <th colspan="2">Prettier</th>
         </tr>
