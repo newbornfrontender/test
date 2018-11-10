@@ -17,8 +17,13 @@ html
     <th>Команда</th>
     <th>Описание</th>
   </tr>
+  
   <tr>
-    <td><code>$ yarn move<code></td>
+    <td colspan="2">Prettier</td>
+  </tr>
+  
+  <tr>
+    <td><code>$ yarn move</code></td>
     <td>Переносит статические ресурсы в "dist" директорию</td>
   </tr>
 </table>
