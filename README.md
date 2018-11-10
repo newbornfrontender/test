@@ -19,7 +19,17 @@ html
   </tr>
   
   <tr>
-    <td align="center" colspan="2">Prettier</td>
+    <td>
+      <table>
+        <tr>
+          <th>Prettier</th>
+        </tr>
+        <tr>
+          <td><code>$ yarn move</code></td>
+          <td>Переносит статические ресурсы в "dist" директорию</td>
+        </tr>
+      </table>
+    </td>
   </tr>
   
   <tr>
