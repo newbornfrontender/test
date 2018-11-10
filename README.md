@@ -31,7 +31,7 @@
         <blockquote>
           <p>TSLint - это расширяемый инструмент статического анализа, который проверяет TypeScript код на удобочитаемость, наличие функциональных ошибок и способен исправлять их</p>
         </blockquote>
-        <table>
+        <table colspan="2">
           <thead>
             <tr>
               <th>Команда</th>
@@ -40,7 +40,7 @@
           </thead>
           <tbody>
             <!-- Команда: tslint:check -->
-            <tr colspan="2">
+            <tr>
               <td>
                 <code>$ yarn tslint:check</code>
               </td>
