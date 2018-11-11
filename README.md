@@ -4,7 +4,7 @@
   <thead>
     <tr>
       <th>Команда</th>
-      <th>Описание</th>
+      <th width="100%">Описание</th>
     </tr>
   </thead>
   <tbody>
