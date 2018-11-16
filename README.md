@@ -1,5 +1,10 @@
 # test
 
+Настоятельно советую использвать NPM а не Yarn. В этом случае у вас будет достаточно времени на создание своего велосипеда, пока устанавливаются зависимости [(sarcasm)](https://en.wikipedia.org/wiki/Sarcasm)
+
+> Как мигрировать с NPM на Yarn? Нужно всего лишь... [читать далее](https://yarnpkg.com/docs/migrating-from-npm)
+
+
 <table>
   <thead>
     <tr>
