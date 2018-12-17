@@ -102,7 +102,7 @@
 ## Video - test
 
 <div align="center">
-  <a href="https://www.youtube.com/embed/drJwMlD9Mjo"><img src="https://doconfig.netlify.com/images/logos/netlify.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/embed/drJwMlD9Mjo"><img src="https://i.ytimg.com/vi_webp/drJwMlD9Mjo/maxresdefault.webp" alt="IMAGE ALT TEXT"></a>
 </div>
 
 
