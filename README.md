@@ -7,8 +7,8 @@
 <table>
   <thead>
     <tr>
-      <th>Команда</th>
-      <th width="100%">Описание</th>
+      <th width="50%">Команда</th>
+      <th width="50%">Описание</th>
     </tr>
   </thead>
   <tbody>
