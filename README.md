@@ -14,7 +14,7 @@
   <tbody>
     <!-- Команда: clean -->
     <tr>
-      <td>
+      <td text="align">
         <code>$ yarn clean</code>
       </td>
       <td>Удаляет ".cache" и "dist" директории</td>
