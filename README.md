@@ -111,8 +111,8 @@
 <table>
   <thead>
     <tr>
-      <th>Commands</th>
-      <th>Description</th>
+      <th width="50%">Commands</th>
+      <th width="50%">Description</th>
     </tr>
   </thead>
   <tbody>
