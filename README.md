@@ -108,7 +108,7 @@
 - Title
   - [x] ToDo item
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th width="50%">Commands</th>
