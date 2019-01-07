@@ -107,3 +107,18 @@
 
 - Title
   - [x] ToDo item
+
+<table>
+  <thead>
+    <tr>
+      <th>Commands</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>pretty</td>
+      <td>Formatting code with Prettier</td>
+    </tr>
+  </tbody>
+</table>
