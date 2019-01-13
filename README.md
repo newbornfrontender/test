@@ -1,7 +1,5 @@
 # test
 
-> Как мигрировать с NPM на Yarn и начать зарабатывать? Нужно всего лишь... [[ЧИТАТЬ ДАЛЕЕ]](https://yarnpkg.com/docs/migrating-from-npm)
-
 <table>
   <thead>
     <tr>
